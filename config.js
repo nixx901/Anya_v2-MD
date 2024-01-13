@@ -70,7 +70,7 @@ module.exports = {
   footer: process.env.Footer || "© Queen Anya Bot",
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "Prime-ai",
+  ownername: process.env.Owner_Name || "亗一『Ｐｒｉｍｅ』・",
   ownernumber: process.env.Owner_Number || "916001031685",
   instagramId: process.env.Insta || "8.08_only_mine",
   warns: process.env.Warns_Limits || 3,
@@ -112,7 +112,7 @@ global.myweb = process.env.Web || "https://github.com/PikaBotz"
 global.footer = process.env.Footer || "© Queen Anya Bot" 
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Prime-ai" 
+global.ownername = process.env.Owner_Name || "亗一『Ｐｒｉｍｅ』・" 
 global.ownernumber = process.env.Owner_Number || "916001031685" 
 global.adress = process.env.Continent || "Asia, India, Assam" 
 global.timezone = process.env.TimeZone || "Asia/Kolkata" 
